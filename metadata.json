@@ -1,0 +1,6 @@
+{
+  "name": "Merge Master – Build Your Empire",
+  "description": "Addictive casual merge puzzle game. Merge botanical wonders from Seed to Empire Tree, earn coins, and construct your grand royal empire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
